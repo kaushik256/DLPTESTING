@@ -1,7 +1,9 @@
+{ "detectionRuleUUIDs": ["17e28c48-abfe-4cd6-8d7f-c0ac47cf6cea"]}
+
 {
   "detectionRules": [
     {
-      "name": "",
+      "name": "test",
       "detectors": [
         {
           "minNumFindings": 1,

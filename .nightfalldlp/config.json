@@ -12,6 +12,13 @@
         },
         {
           "minNumFindings": 1,
+          "minConfidence": "POSSIBLE",
+          "displayName": "cc",
+          "detectorType": "NIGHTFALL_DETECTOR",
+          "nightfallDetector": "CREDIT_CARD_NUMBER"
+        },
+        {
+          "minNumFindings": 1,
           "minConfidence": "LIKELY",
           "displayName": "crypto key",
           "detectorType": "NIGHTFALL_DETECTOR",

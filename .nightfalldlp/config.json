@@ -1,5 +1,5 @@
 {
-  "detectionRuleUUIDs": ["17e28c48-abfe-4cd6-8d7f-c0ac47cf6cea"],
+  "detectionRuleUUIDs": ["17e28c48-abfe-4cd6-8d7f-c0ac47cf6cea", "5df98745-be43-4e09-ae67-038ad9f2c4a1"],
   "detectionRules": [
     {
       "name": "test",
